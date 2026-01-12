@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Sunday Morning",
+  "base_artist": "ILLIT",
+  "createdAt": "2026-01-12T15:10:33.425774Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunday Morning",
+      "artist": "Parmalee",
+      "has_synced": true,
+      "path": "select/01_Sunday_Morning_Parmalee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sunday Morning Coming Down - Live",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/02_Sunday_Morning_Coming_Down_-_Live_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sunday Morning Coming Down (Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/03_Sunday_Morning_Coming_Down_(Album_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sunday Morning",
+      "artist": "The Velvet Underground",
+      "has_synced": true,
+      "path": "select/04_Sunday_Morning_The_Velvet_Underground.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sunday Morning",
+      "artist": "The Velvet Underground & Nico",
+      "has_synced": true,
+      "path": "select/05_Sunday_Morning_The_Velvet_Underground_&_Nico.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sunday Morning",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/06_Sunday_Morning_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sunday Morning",
+      "artist": "Madness",
+      "has_synced": false,
+      "path": "select/07_Sunday_Morning_Madness.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sunday Morning",
+      "artist": "Madness",
+      "has_synced": false,
+      "path": "select/08_Sunday_Morning_Madness.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sunday Morning",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/09_Sunday_Morning_No_Doubt.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sunday Morning Call",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/10_Sunday_Morning_Call_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sunday Morning",
+      "artist": "Ethel Cain",
+      "has_synced": false,
+      "path": "select/11_Sunday_Morning_Ethel_Cain.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sunday Morning",
+      "artist": "Julian Lennon",
+      "has_synced": false,
+      "path": "select/12_Sunday_Morning_Julian_Lennon.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sunday Morning",
+      "artist": "Acid House Kings",
+      "has_synced": true,
+      "path": "select/13_Sunday_Morning_Acid_House_Kings.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunday Morning",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_01_Sunday_Morning_ILLIT.txt"
+    }
+  ]
+}
